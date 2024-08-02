@@ -1,6 +1,6 @@
-# Densify-Analyze-CSV
-
 <img src="https://www.densify.com/wp-content/uploads/densify.png" width="250">
+
+# Densify-Analyze-CSV
 
 This repository contains several Excel templates you can use to view, format, and analyze the output of Densify-Export-CSV.   
 
